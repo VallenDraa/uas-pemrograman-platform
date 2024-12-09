@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "1070609167629",
+    "project_id": "sewa-mobil-4d050",
+    "storage_bucket": "sewa-mobil-4d050.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070609167629:android:c36dfdacd827e181342c44",
+        "android_client_info": {
+          "package_name": "com.example.firebaselab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAExnQidJww7G0wxpJnMSd7glRwbP3DZaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070609167629:android:9e479fe24262ff46342c44",
+        "android_client_info": {
+          "package_name": "com.example.studyplan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAExnQidJww7G0wxpJnMSd7glRwbP3DZaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070609167629:android:e6738a609d5ba171342c44",
+        "android_client_info": {
+          "package_name": "com.example.studyplantrac"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAExnQidJww7G0wxpJnMSd7glRwbP3DZaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
